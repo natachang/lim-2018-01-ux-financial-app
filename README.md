@@ -248,13 +248,14 @@ La cantidad de información que se pedía para registrarse en la aplicación res
 
 ![movi](https://user-images.githubusercontent.com/38342062/46578238-1fd8b600-c9c0-11e8-82cd-f1e64b891ca4.PNG)
 
-![ahorrooss](https://user-images.githubusercontent.com/38342062/46425847-6ac5a580-c702-11e8-821b-73561990fc39.PNG)
+
+![ahorros](https://user-images.githubusercontent.com/38342062/46585453-a4661b80-ca36-11e8-9083-4b635ca7d81e.PNG)
 
 
-![gastoss](https://user-images.githubusercontent.com/38342062/46425849-6e592c80-c702-11e8-81b9-e3b19b98f418.PNG)
+![gastos](https://user-images.githubusercontent.com/38342062/46585452-a4661b80-ca36-11e8-9a67-6a3247d254a5.PNG)
 
 
-## Puedes ver el prototipo de alta fidelidad [AQUÍ][1]
+## Puedes ver el prototipo navegable [AQUÍ][1]
 
 [1]:  https://marvelapp.com/9j79a54
 
