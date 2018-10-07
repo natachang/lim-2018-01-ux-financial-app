@@ -263,3 +263,10 @@ La cantidad de información que se pedía para registrarse en la aplicación res
 ### Link de Zeplin **--->** [AQUÍ][2]
 
 [2]: https://zpl.io/scene/VKlA0oR
+
+
+### **Conoce a detalle el proceso de trabajo de este rediseño**
+
+[3]: https://drive.google.com/drive/folders/1CvbE8TduWRgPgG8fqRbP28ldffP9SJtt?usp=sharing
+
+### **Acceso a la domuentación --->** [Ir al drive][3]
