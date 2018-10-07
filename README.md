@@ -270,4 +270,4 @@ La cantidad de información que se pedía para registrarse en la aplicación res
 
 [3]: https://drive.google.com/drive/folders/1CvbE8TduWRgPgG8fqRbP28ldffP9SJtt?usp=sharing
 
-### **Acceso a la domuentación --->** [Ir al drive][3]
+### **Acceso a la documentación --->** [Ir al drive][3]
