@@ -169,7 +169,7 @@ de UX y son asignadas al proyecto.
 
 - Re-dirigir la campaña al público objetivo real
 
-- Re-diseñar el diseño y contenido de la publicidad  
+- Re-diseñar el contenido visual y de la publicidad  
 
 - Crear contenido más orgánico
 
@@ -237,16 +237,16 @@ La cantidad de información que se pedía para registrarse en la aplicación res
 
 ### **ONBOARDING** 
 
-![onboarding](https://user-images.githubusercontent.com/38342062/46417575-9be8aa80-c6ef-11e8-9636-43cd860d4ee6.PNG)
+![onboarding](https://user-images.githubusercontent.com/38342062/46578207-16028300-c9bf-11e8-8585-44794d912f75.PNG)
+
  
 
  ### **COMPARATIVAS DE DISEÑO**
 
-![iniciooo](https://user-images.githubusercontent.com/38342062/46425795-49fd5000-c702-11e8-8523-355c2202e499.PNG)
+![inicioo](https://user-images.githubusercontent.com/38342062/46578237-1e0ef280-c9c0-11e8-9302-c2c343e8b712.PNG)
 
 
-![movimientoss](https://user-images.githubusercontent.com/38342062/46425802-4d90d700-c702-11e8-9fea-1dcb3ced3128.PNG)
-
+![movi](https://user-images.githubusercontent.com/38342062/46578238-1fd8b600-c9c0-11e8-82cd-f1e64b891ca4.PNG)
 
 ![ahorrooss](https://user-images.githubusercontent.com/38342062/46425847-6ac5a580-c702-11e8-821b-73561990fc39.PNG)
 
