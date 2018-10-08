@@ -158,7 +158,7 @@ de UX y son asignadas al proyecto.
 
     Esto reduciría el flujo que los usuarios tienen que seguir. Es decir,evitarían llenar un formulario innecesario que haga el proceso de descarga más largo y puedan desistir de terminarlo o no. Además de no generarles confusión al existir actualmente un botón de *call to action* con el texto erróneo de 'descarga directa'.
 
- - Desarrollar la app para android
+ - **Desarrollar la app para android**
 
     Se encontró que de todas las personas que llegan a visitar la
     landing page, el 88,9 % son usuarios de android, el 7,3 % de IOS y el  3,9 % de otros. La mayoría de usuarios (debería priorizarse en sus necesidades) se concentra en el uso de un sistema operativo en 
@@ -167,38 +167,43 @@ de UX y son asignadas al proyecto.
 ### **En qué se debería invertir el presupuesto de marketing**
 
 
-- Re-dirigir la campaña al público objetivo real
+- **Re-dirigir la campaña al público objetivo real**
 
   De las entrevistas con usuarios, se encontró que las personas que darían mayor uso a la aplicación están entre los 23 a 30 años de edad. Esto se debe a las diferentes necesidades que tienen este grupo de personas,que a su vez reúnen el común de tener el interés de ahorrar para cosas específicas a corto plazo y planes a futuro.
 
-- Re-diseñar el contenido visual y de la publicidad  
+- **Re-diseñar el contenido visual y de la publicidad** 
 
   De lo analizado, se concluyó que una de las razones principales por las que el funnel de conversión decae masivamente, tanto de las impresiones de facebook a la landing page como a los registros finales en la aplicación es porque la publicidad no está transmitiendo lo que se puede lograr con la aplicación o porqué deberían descargarla o incluso visitar la página para informarse mejor.
 
-- Crear contenido más orgánico
+- **Crear contenido más orgánico**
 
   Esto generaría que más personas conozcan en lo que el banco está trabajando y que ofrece con la nueva aplicación. Además que al ser orgánico se crea contenido que realmente conecte con el público. Esto crearía un genuino interés en los productos del banco y así posteriormente aumentar las conversiones.
 
-- Invertir en google AdWords.
+- **Invertir en google AdWords**
 
   Algunas de las personas entrevistadas mencionaron que cuando buscan organizar sus gastos o como empezar a ahorrar para lograr algo personal, simplemente buscan en Google "¿Cómo puedo ahorrar más? o ¿Cómo reduzco mis gastos?". De esto podemos extraer que el interés en la app no solo lo tendrían las personas a las que les aparezca la publicidad en Facebook, sino también hay más que incluso ya están buscando alternativas para solucionar lo que buscan. 
 
 ## Propuesta de solución 
 
-- Hacer la app visualmente más: 
+- **Hacer la app visualmente más:** 
 
   - Atractiva 
   - Moderna
   - Intuitiva
   - Dinámica
 
+  Esto permitiría que la aplicación no les parezca aburrida a los usuarios y no tiendan a dejar de usarla o incluso decidir si descargarla o no. Además durante su uso ayudaría a conectar a las personas con lo que desean lograr y éstas la vean como una herramienta que no solo les gusta usar, sino que también los ayuda. 
 
-- Incluir gráficos del estado de sus 
-   operaciones
+- **Incluir gráficos del estado de sus 
+   operaciones**
+
+   Las personas entrevistas mencionaron que al entrar a una aplicación donde controlan su economía, lo que les gustaría ver es cuál es la situación en términos generales por mes. Pero sin tener que revisar una lista de cada acción realizada. Entonces el incluir gráficos, visualmente haría que puedan revisar cuál es el estado por mes de cada sección , de forma rápida y sencilla.
 
 
-- Añadir un onboarding mostrando los 
-  beneficios de la aplicación 
+- **Añadir un onboarding mostrando los 
+  beneficios de la aplicación**
+
+  Se consideró necesario incluir un onboarding mostrando los principales puntos de la aplicación, como los beneficios y que se puede lograr. Debido a que contribuiría a la permanencia de las personas en la aplicación al informarse textualmente que se les ofrece. Además al ser una aplicación que no lleva mucho tiempo en el mercado, esto ayudaría para informar mejor de qué se trata.
 
 
 ### **Lo que fue entregado en el inicio del proyecto:**
