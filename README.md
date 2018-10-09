@@ -300,9 +300,14 @@ De los testeos que se hicieron con el MVP actual se obtuvo que el flujo de regis
 
 [2]: https://zpl.io/scene/VKlA0oR
 
+### **Mira el video de nuestra presentación del desarrollo del proyecto**
+
+### Link de Loom **--->** [AQUÍ][3]
+
+[3]: https://www.useloom.com/share/8e441081214f4811a9ba90e66231f74e 
 
 ### **Conoce a detalle el proceso de trabajo de este rediseño**
 
-[3]: https://drive.google.com/drive/folders/1CvbE8TduWRgPgG8fqRbP28ldffP9SJtt?usp=sharing
+### **Acceso a la documentación --->** [Ir al drive][4]
 
-### **Acceso a la documentación --->** [Ir al drive][3]
+[4]: https://drive.google.com/drive/folders/1CvbE8TduWRgPgG8fqRbP28ldffP9SJtt?usp=sharing
