@@ -292,7 +292,7 @@ De los testeos que se hicieron con el MVP actual se obtuvo que el flujo de regis
 
 ## Puedes ver el prototipo navegable [AQUÍ][1]
 
-[1]:  https://marvelapp.com/9j79a54
+[1]:  https://marvelapp.com/604a877
 
 ### **Compartiendo con desarrolladores**
 
