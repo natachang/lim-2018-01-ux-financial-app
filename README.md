@@ -311,3 +311,17 @@ De los testeos que se hicieron con el MVP actual se obtuvo que el flujo de regis
 ### **Acceso a la documentación --->** [Ir al drive][4]
 
 [4]: https://drive.google.com/drive/folders/1CvbE8TduWRgPgG8fqRbP28ldffP9SJtt?usp=sharing
+
+### **Justificación de actividades** 
+
+-----> [AQUÍ][5]
+
+[5]: https://docs.google.com/document/d/186A7k247fB_0QfrFsIyTsaJOycVE_kGUxrP4ZyeB2H0/edit?usp=sharing
+
+
+### **Herramienta de planificación** 
+
+
+-----> [AQUÍ][6]
+
+[6]: https://trello.com/b/LUJ4bXof/financial-app
